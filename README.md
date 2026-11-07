@@ -10,10 +10,12 @@ A Calculadora de IMC permite que o usuário informe altura e peso e, ao clicar e
 
 O projeto foi construído passo a passo, acompanhando as aulas:
 
-- Aula 3 — Estrutura HTML
-- Aula 4 — Estilização com CSS
-- Aula 5 — Lógica com JavaScript
-- Aula 6 — Versionamento com Git e GitHub
+- **Aula 1** — Introdução: o que é programação e quem é o programador
+- **Aula 2** — O que é um algoritmo (passos a serem seguidos)
+- **Aula 3** — Estrutura HTML
+- **Aula 4** — Estilização com CSS
+- **Aula 5** — Lógica com JavaScript
+- **Aula 6** — Versionamento com Git e GitHub
 
 ## Tecnologias
 
@@ -22,22 +24,42 @@ O projeto foi construído passo a passo, acompanhando as aulas:
 - JavaScript (DOM e eventos)
 - Git e GitHub
 
-## Demonstração
+## Aulas e Evolução do Projeto
 
-### Estrutura inicial (HTML)
-![HTML inicial](https://github.com/sangaletti35-ops/calculadora-imc/raw/main/Captura%20de%20tela%202026-11-07%20090717.png)
+### Aula 1 — Introdução à Programação
+Conceitos iniciais sobre o que é programação e o papel do programador.
 
-### Aplicação de CSS e centralização
-![CSS aplicado](https://github.com/sangaletti35-ops/calculadora-imc/raw/main/Captura%20de%20tela%202026-11-07%20092213.png)
+![Aula 1](programação-aula1.png)
 
-### Estilização do formulário
-![Formulário estilizado](https://github.com/sangaletti35-ops/calculadora-imc/raw/main/Captura%20de%20tela%202026-11-07%20094217.png)
+### Aula 2 — Algoritmos
+Entendimento de algoritmo como sequência de passos para resolver um problema.
 
-### Resultado final com CSS
-![Resultado visual](https://github.com/sangaletti35-ops/calculadora-imc/raw/main/Captura%20de%20tela%202026-11-07%20102629.png)
+![Aula 2](algoritmo-aula2.png)
 
-### Lógica em JavaScript
-![JavaScript](https://github.com/sangaletti35-ops/calculadora-imc/raw/main/Captura%20de%20tela%202026-11-07%20103757.png)
+### Aula 3 — HTML
+Criação da estrutura da calculadora com HTML.
+
+![Aula 3](html-aula3.png)
+
+### Aula 4 — CSS
+Estilização da página, centralização e formatação do formulário.
+
+![Aula 4](css-aula4.png)
+
+### Aula 5 — JavaScript
+Implementação da lógica de cálculo do IMC e classificação do resultado.
+
+![Aula 5](java-aula5.png)
+
+### Resultado Final
+Visual completo da calculadora após a aplicação do CSS.
+
+![Resultado Final](resultado%20final.png)
+
+### Aula 6 — Git e GitHub
+Versionamento do projeto e envio para o repositório.
+
+![Aula 6](git%20e%20github-aula6.png)
 
 ## Como executar
 
