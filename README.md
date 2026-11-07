@@ -1,4 +1,4 @@
-# Calculadora de IMC
+# Calculadora de IMC 
 
 Projeto de aquecimento desenvolvido durante as aulas de **Frontend** do curso **Full Stack em 1 Dia** com o professor **Renato Gava**.
 
